@@ -1,2 +1,2 @@
 # sfg-pet-clinic
-SFT Pet Clinic
+Making a web application based on a petclinic using Spring, Maven, Hibernate
