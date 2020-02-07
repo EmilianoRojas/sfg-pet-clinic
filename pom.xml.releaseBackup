@@ -56,8 +56,8 @@
 
 
   <scm>
-      <developerConnection>scm:git:git@github.com:username/repository.git</developerConnection>
+      <url>https://github.com/EmilianoRojas/sfg-pet-clinic</url>
+      <connection>scm:git:https://github.com/EmilianoRojas/sfg-pet-clinic.git</connection>
 
-    <tag>sfg-pet-clinic-0.0.1</tag>
   </scm>
 </project>
