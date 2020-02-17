@@ -56,8 +56,9 @@
 
 
     <scm>
-        <url>https://github.com/EmilianoRojas/sfg-pet-clinic</url>
+
         <connection>scm:git:ssh://git@github.com/EmilianoRojas/sfg-pet-clinic.git</connection>
 
+    <tag>sfg-pet-clinic-0.0.1</tag>
   </scm>
 </project>
